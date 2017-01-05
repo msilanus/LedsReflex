@@ -18,4 +18,5 @@ Jeu du type "Tape Taupes" autours d'une carte microcontrôleur Arduino Uno et d'
 
 # But du jeu
 Presser le bouton face à la led allumée. Le joueur à 20 essais et peut choisir le niveau de difficultés.
+![Câblage](LedReflex.jpg)
 ![fenêtre de jeu](fenetreJeu.PNG)
